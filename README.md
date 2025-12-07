@@ -53,35 +53,20 @@ The analysis uses an Excel dataset (`College Feedback Sentiment-01.xlsx`) contai
 
 Based on the analysis performed in the notebook:
 
-  * [cite_start]**Highest Rated Event:** `Tech Fest` (Avg Rating: 5.0)[cite: 110].
-  * [cite_start]**Lowest Rated Event:** `Sports Day` (Avg Rating: 3.4)[cite: 110].
-  * [cite_start]**Best Feedback Sentiment:** `Cultural Night` achieved the highest sentiment score (approx 0.42)[cite: 140], indicating highly positive verbal feedback despite having a lower numerical rating than Tech Fest.
-  * [cite_start]**Worst Feedback Sentiment:** `Hackathon` had the lowest sentiment score (approx 0.29)[cite: 140], suggesting mixed feelings in the text reviews despite a decent numerical rating.
-  * [cite_start]**Overall Sentiment:** The majority of feedback was **Positive** (16 counts), with minimal negative feedback[cite: 139].
-
-## 🚀 How to Run
-
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/college-event-feedback-analysis.git
-    ```
-2.  **Install dependencies**:
-    ```bash
-    pip install pandas matplotlib seaborn textblob openpyxl
-    ```
-3.  **Run the Notebook**:
-    Open `College Event Feedback Analysis.ipynb` in Jupyter Notebook or Google Colab.
-4.  **Load Data**:
-    Ensure the `College Feedback Sentiment-01.xlsx` file is in the root directory or update the file path in the code.
+  * **Highest Rated Event:** `Tech Fest` (Avg Rating: 5.0)[cite: 110].
+  * **Lowest Rated Event:** `Sports Day` (Avg Rating: 3.4)[cite: 110].
+  * **Best Feedback Sentiment:** `Cultural Night` achieved the highest sentiment score (approx 0.42)[cite: 140], indicating highly positive verbal feedback despite having a lower numerical rating than Tech Fest.
+  * **Worst Feedback Sentiment:** `Hackathon` had the lowest sentiment score (approx 0.29)[cite: 140], suggesting mixed feelings in the text reviews despite a decent numerical rating.
+  * **Overall Sentiment:** The majority of feedback was **Positive** (16 counts), with minimal negative feedback[cite: 139].
 
 ## 📷 Visualizations
 
 The project generates the following visualizations:
 
-  * [cite_start]**Bar Chart**: Average Rating by Event[cite: 112].
-  * [cite_start]**Line Plot**: Trend of Ratings across events[cite: 112].
-  * [cite_start]**Bar Chart**: Average Sentiment Score by Event[cite: 140].
-  * [cite_start]**Count Plot**: Distribution of Sentiment Types (Positive/Neutral/Negative)[cite: 139].
+  * **Bar Chart**: Average Rating by Event[cite: 112].
+  * **Line Plot**: Trend of Ratings across events[cite: 112].
+  * **Bar Chart**: Average Sentiment Score by Event[cite: 140].
+  * **Count Plot**: Distribution of Sentiment Types (Positive/Neutral/Negative)[cite: 139].
 
 -----
 *Created by Sai Karun*
