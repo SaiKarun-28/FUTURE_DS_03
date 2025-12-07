@@ -1,7 +1,3 @@
-Here is a professional, structured `README.md` file designed for your GitHub repository based on the analysis provided in the uploaded file.
-
------
-
 # College Event Feedback Analysis & Sentiment Classification
 
 ## 📌 Project Overview
@@ -87,8 +83,5 @@ The project generates the following visualizations:
   * [cite_start]**Bar Chart**: Average Sentiment Score by Event[cite: 140].
   * [cite_start]**Count Plot**: Distribution of Sentiment Types (Positive/Neutral/Negative)[cite: 139].
 
-## 👤 Author
-
-**Sai Karun**
-
 -----
+*Created by Sai Karun*
